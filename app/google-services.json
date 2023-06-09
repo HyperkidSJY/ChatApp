@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440250900543",
+    "project_id": "chatapp-25214",
+    "storage_bucket": "chatapp-25214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440250900543:android:eebfe2a1e3b897a346588a",
+        "android_client_info": {
+          "package_name": "com.hyper.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440250900543-c0lo3oi2fsv60rs9m9dfbl84buj0cnl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAehzBbkT1-1DAIrdQxZvtc1qIUmb-ttQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440250900543-c0lo3oi2fsv60rs9m9dfbl84buj0cnl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
